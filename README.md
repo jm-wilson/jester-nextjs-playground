@@ -65,7 +65,7 @@ Some of the images in `/public/` are very big, but the ones downloaded by the `S
 
 # Attributions
 <details>
-  <summary>All images were downloaded from [Unsplash](https://unsplash.com/license) and cropped to square aspect ratios.</summary>
+  <summary>All images were downloaded from <a href="https://unsplash.com/license">Unsplash</a> and cropped to square aspect ratios.</summary>
   <ul>
     <li>Blender from <a href="https://unsplash.com/photos/clear-glass-pitcher-with-sliced-fruits-LbJ_jSAepKM">Andrea Niosi</a></li>
     <li>Kettle from <a href="https://unsplash.com/photos/black-kettle-on-brown-wooden-table-NTa2s1hgqSc">Charlie Firth</a></li>
