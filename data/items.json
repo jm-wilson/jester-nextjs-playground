@@ -1,0 +1,74 @@
+[
+  {
+    "id": "d6265504-25bf-4480-a64e-77fcd17f1423",
+    "category": "appliances",
+    "price": 1,
+    "title": "Blender"
+  },
+  {
+    "id": "e0c7735e-30a2-403f-b25c-7598fe44e5c2",
+    "category": "appliances",
+    "price": 2,
+    "title": "Kettle"
+  },
+  {
+    "id": "a98ce522-1ebd-4ff0-8c74-4a796a28dc55",
+    "category": "appliances",
+    "price": 3,
+    "title": "Oven"
+  },
+  {
+    "id": "c0f7e658-938d-4850-a740-6643747adb20",
+    "category": "appliances",
+    "price": 4,
+    "title": "Microwave"
+  },
+  {
+    "id": "3431ec35-ca48-4a1a-9ef8-c9231813382a",
+    "category": "clothing",
+    "price": 1,
+    "title": "Shirt"
+  },
+  {
+    "id": "26396d0d-d39e-4098-92f3-2141632e1d3d",
+    "category": "clothing",
+    "price": 2,
+    "title": "Hat"
+  },
+  {
+    "id": "646d755d-cd2b-451a-8bff-e72c334bea07",
+    "category": "clothing",
+    "price": 3,
+    "title": "Jacket"
+  },
+  {
+    "id": "31c75259-60e2-4ecf-a52b-9b14c5f83005",
+    "category": "clothing",
+    "price": 4,
+    "title": "Socks"
+  },
+  {
+    "id": "deef32ae-4b9d-499c-81b0-d851f2a09ac8",
+    "category": "sporting-goods",
+    "price": 1,
+    "title": "Hockey stick"
+  },
+  {
+    "id": "e967fe02-058f-4af5-a6af-7f3ac2f6e1da",
+    "category": "sporting-goods",
+    "price": 2,
+    "title": "Baseball bat"
+  },
+  {
+    "id": "0159f02b-1755-49d6-941f-64b21b6cb760",
+    "category": "sporting-goods",
+    "price": 3,
+    "title": "Goalie pads"
+  },
+  {
+    "id": "5358d4a3-cd7b-46db-a127-1cde11293231",
+    "category": "sporting-goods",
+    "price": 4,
+    "title": "Tennis ball"
+  }
+]
